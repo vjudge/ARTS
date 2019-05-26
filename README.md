@@ -17,3 +17,6 @@ https://github.com/vjudge/ARTS/blob/master/第五周.md
 
 ## 第六周(2019.05.20 - 2019.05.26)
 https://github.com/vjudge/ARTS/blob/master/第六周.md
+
+## 第七周(2019.05.27 - 2019.06.01)
+https://github.com/vjudge/ARTS/blob/master/第七周.md

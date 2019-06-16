@@ -26,3 +26,6 @@ https://github.com/vjudge/ARTS/blob/master/第八周.md
 
 ## 第九周(2019.06.10 - 2019.06.16)
 https://github.com/vjudge/ARTS/blob/master/第九周.md
+
+## 第0010周(2019.06.17 - 2019.06.23)
+https://github.com/vjudge/ARTS/blob/master/第0010周.md

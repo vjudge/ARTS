@@ -39,5 +39,14 @@ https://github.com/vjudge/ARTS/blob/master/第0012周.md
 ## 第0013周(2019.07.07 - 2019.07.14)
 https://github.com/vjudge/ARTS/blob/master/第0013周.md
 
-## 第0013周(2019.07.15 - 2019.07.21)
+## 第0014周(2019.07.15 - 2019.07.21)
 https://github.com/vjudge/ARTS/blob/master/第0014周.md
+
+## 第0015周(2019.07.22 - 2019.07.28)
+https://github.com/vjudge/ARTS/blob/master/第0015周.md
+
+## 第0016周(2019.07.29 - 2019.08.04)
+https://github.com/vjudge/ARTS/blob/master/第0016周.md
+
+## 第0017周(2019.07.05 - 2019.07.11)
+https://github.com/vjudge/ARTS/blob/master/第0017周.md

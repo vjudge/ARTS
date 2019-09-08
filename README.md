@@ -61,4 +61,4 @@ https://github.com/vjudge/ARTS/blob/master/第0019周.md
 https://github.com/vjudge/ARTS/blob/master/第0020周.md
 
 ## 第0021周(2019.09.02 - 2019.09.08)
-https://github.com/vjudge/ARTS/blob/master/第0020周.md
+https://github.com/vjudge/ARTS/blob/master/第0021周.md

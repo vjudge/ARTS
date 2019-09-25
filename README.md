@@ -1,5 +1,14 @@
 # ARTS - 左耳听风
 
+### 第0025周(2019.09.30 - 2019.10.06)
+https://github.com/vjudge/ARTS/blob/master/第0025周.md
+
+### 第0024周(2019.09.23 - 2019.09.29)
+https://github.com/vjudge/ARTS/blob/master/第0024周.md
+
+### 第0023周(2019.09.16 - 2019.09.22)
+https://github.com/vjudge/ARTS/blob/master/第0023周.md
+
 ### 第0022周(2019.09.09 - 2019.09.15)
 https://github.com/vjudge/ARTS/blob/master/第0022周.md
 

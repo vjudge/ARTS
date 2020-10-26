@@ -18,6 +18,7 @@
 ### 第0082周(2020.11.02 - 2020.11.08)
 
 ### 第0081周(2020.10.26 - 2020.11.01)
+https://github.com/vjudge/ARTS/blob/master/2020/第0081周.md
 
 ### 第0080周(2020.10.19 - 2020.10.25)
 https://github.com/vjudge/ARTS/blob/master/2020/第0080周.md
